@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\nkieu123\nkieu123\bin\nkieu123.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\nkieu123\nkieu123\bin\nkieu123.dll
+c:\users\admin\documents\visual studio 2013\Projects\nkieu123\nkieu123\bin\nkieu123.pdb
+c:\users\admin\documents\visual studio 2013\Projects\nkieu123\nkieu123\obj\Debug\nkieu123.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\nkieu123\nkieu123\obj\Debug\nkieu123.dll
+c:\users\admin\documents\visual studio 2013\Projects\nkieu123\nkieu123\obj\Debug\nkieu123.pdb
