@@ -1,0 +1,6 @@
+G:\KIMKIEU\kieukieukieubai5\kieukieukieubai5\bin\kieukieukieubai5.dll.config
+G:\KIMKIEU\kieukieukieubai5\kieukieukieubai5\bin\kieukieukieubai5.dll
+G:\KIMKIEU\kieukieukieubai5\kieukieukieubai5\bin\kieukieukieubai5.pdb
+G:\KIMKIEU\kieukieukieubai5\kieukieukieubai5\obj\Debug\kieukieukieubai5.csprojResolveAssemblyReference.cache
+G:\KIMKIEU\kieukieukieubai5\kieukieukieubai5\obj\Debug\kieukieukieubai5.dll
+G:\KIMKIEU\kieukieukieubai5\kieukieukieubai5\obj\Debug\kieukieukieubai5.pdb
