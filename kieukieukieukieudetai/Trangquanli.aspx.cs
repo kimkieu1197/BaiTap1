@@ -39,5 +39,16 @@ namespace kieukieukieukieudetai
                 }
             }
         }
+
+        protected void ckbChonAll_CheckedChanged(object sender, EventArgs e)
+        {
+            bool trangthai = false;
+            if (ckbChonAll.Checked) trangthai = true;
+            foreach (GridViewRow dr in data.Rows)
+            {
+                CheckBox chk = (CheckBox)dr.Cells[0].FindControl("ckbChon");
+                chk.Checked = trangthai;
+            }
+        }
     }
 }

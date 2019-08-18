@@ -11,5 +11,10 @@ namespace kieukieukieukieudetai
         {
             throw new NotImplementedException();
         }
+
+        internal bool SuaNguoiDung(NguoiDung nguoiDung)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

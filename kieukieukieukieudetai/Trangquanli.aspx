@@ -7,6 +7,7 @@
     <title>QUẢNG LÝ SÁCH</title>
 </head>
 <body>
+                    <form id="form1" runat="server">
                     <div>
                         <h2 class="left">Danh sách Sách</h2>
                     </div>
@@ -33,11 +34,11 @@
                         </Columns>
                         <PagerStyle HorizontalAlign = "Right" CssClass ="pagging" />
                     </asp:GridView>
-                    <div class="box-content">
-                        <div class="cl">&nbsp;</div>
-                        <p class="select-all">
+                        <div class="box-content">
+                            <p class="select-all">
                             <asp:CheckBox ID="ckbChonAll" runat="server" CssClass="checkbox" Text="Chọn tất cả" AutoPostBack="True" OnCheckedChanged="ckbChonAll_CheckedChanged" />
                         </p>
+                            <asp:Button ID="Sửa" runat="server" Text="btnsua" />
                         <p>
                             <asp:Button ID="btnXoaAll" runat="server" Text="Xóa mục đang chọn" CssClass="button" ForeColor="Red" OnClick="btnXoaAll_Click" />
                             </p>
@@ -52,5 +53,6 @@
                             <p><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Admin/QLTheLoaiSach.aspx">Quản lý Thể Loại Sách</asp:HyperLink></p>
                         </div>
     </form>
+                    </form>
 </body>
 </html>
